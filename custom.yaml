@@ -1,0 +1,9 @@
+train: /content/dataset/image/train
+val: /content/dataset/image/val
+
+# Classes
+names:
+  0: prohibitory
+  1: danger
+  2: mandatory
+  3: other
