@@ -1,5 +1,5 @@
-train: /content/dataset/images/train
-val: /content/dataset/images/val
+train: /content/traffic_dataset/images/train
+val: /content/traffic_dataset/images/val
 
 # Classes
 names:
